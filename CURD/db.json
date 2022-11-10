@@ -1,0 +1,23 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Bhanu Teja",
+      "date": "2022-11-10",
+      "time": "23:36",
+      "equipment": "equipment3",
+      "typeofmaintenance": "premium",
+      "costofmaintenance": "100000"
+    },
+    {
+      "id": 2,
+      "name": "Bhanu",
+      "date": "2022-11-04",
+      "time": "14:13",
+      "equipment": "equipment2",
+      "typeofmaintenance": "Gold membership",
+      "costofmaintenance": "10000",
+      "active": true
+    }
+  ]
+}
